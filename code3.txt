@@ -1,1 +1,1 @@
-devops is always interesting
+this is my Git class
