@@ -1,2 +1,3 @@
 git stash
 git stash updated from github 
+pdated the status from github
